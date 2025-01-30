@@ -14,8 +14,8 @@ This repository is a showcase of:
 3) Experimentation:
       • My explorations into emerging technologies and new tools.
 
-[Connect with me on LinkedIn] (https://www.linkedin.com/in/nikhil-goswami-2b446b20b/)
-Email-ID: [nikhilgoswaminkg@gmail.com](nikhilgoswaminkg@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nikhil-goswami-2b446b20b/)
+[Email](nikhilgoswaminkg@gmail.com)
   
 If you find something interesting, don’t hesitate to reach out or provide feedback!
 
