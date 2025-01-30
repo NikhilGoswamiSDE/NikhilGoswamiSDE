@@ -20,7 +20,7 @@ A Mechanical Engineering graduate and an enthusiastic learner in Data Analysis, 
 ## How to Connect:
   
   [Connect with me on LinkedIn](https://www.linkedin.com/in/nikhil-goswami-2b446b20b/)
-  Email-ID: [nikhilgoswaminkg@gmail.com](nikhilgoswaminkg@gmail.com)
+      Email-ID: [nikhilgoswaminkg@gmail.com](nikhilgoswaminkg@gmail.com)
   
   If you find something interesting, don’t hesitate to reach out or provide feedback!
 
