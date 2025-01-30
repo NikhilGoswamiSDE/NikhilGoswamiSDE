@@ -15,6 +15,7 @@ This repository is a showcase of:
       • My explorations into emerging technologies and new tools.
 
 [LinkedIn](https://www.linkedin.com/in/nikhil-goswami-2b446b20b/)
+
 [Email](nikhilgoswaminkg@gmail.com)
   
 If you find something interesting, don’t hesitate to reach out or provide feedback!
